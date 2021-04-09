@@ -2,7 +2,7 @@ make sure you already have node and mongoDb installed.
 
 cd into the frontend directory and run:
 ### `yarn install`
-to install all gependencies.
+to install all dependencies.
 
 also in the frontend directory, run 
 ### `npm run build`
