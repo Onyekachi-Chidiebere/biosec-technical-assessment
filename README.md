@@ -1,3 +1,5 @@
+To run this app after cloning,
+
 make sure you already have node and mongoDb installed.
 
 cd into the frontend directory and run:
@@ -10,10 +12,10 @@ to build the frontend
 
 cd into the server directory and run:
 ### `yarn install`
-to install all gependencies.
+to install all dependencies.
 
 
-In the project directory, you can run:
+In the project root directory, you can run:
 
 ### `yarn start`
 
